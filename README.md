@@ -21,7 +21,7 @@ This project presents an interactive Power BI dashboard built to analyze sales p
 
 ## 📷 Dashboard Preview
 ![Overview](Overview.png)
-![KPIs](kpi.png)
+![KPIs](kpiS.png)
 ![Trends](trends.png)
 
 ## 📁 Files Included
