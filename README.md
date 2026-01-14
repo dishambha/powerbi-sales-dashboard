@@ -20,9 +20,9 @@ This project presents an interactive Power BI dashboard built to analyze sales p
 - High-revenue products
 
 ## 📷 Dashboard Preview
-![Overview](images/overview.png)
-![KPIs](images/kpi.png)
-![Trends](images/trends.png)
+![Overview](overview.png)
+![KPIs](kpi.png)
+![Trends](trends.png)
 
 ## 📁 Files Included
 - `Sales_Dashboard.pbix` – Power BI dashboard file
