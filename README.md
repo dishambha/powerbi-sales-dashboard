@@ -20,7 +20,7 @@ This project presents an interactive Power BI dashboard built to analyze sales p
 - High-revenue products
 
 ## 🔗 Live Dashboard
-[Click here to view the interactive dashboard]((https://app.powerbi.com/links/6zjTi2jG7s?ctid=8090291b-ebcc-4bdf-bde1-cbacbb7c25a9&pbi_source=linkShare))
+[Click here to view the interactive dashboard](https://app.powerbi.com/links/6zjTi2jG7s?ctid=8090291b-ebcc-4bdf-bde1-cbacbb7c25a9&pbi_source=linkShare)
 
 
 ## 📷 Dashboard Preview
